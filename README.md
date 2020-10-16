@@ -20,9 +20,9 @@ npm install
 ## Deployment
 * In order to start the server start **mongod** present in **C:\Program Files\MongoDB\Server\4.2\bin** if
 you installed MongoDB with the default settings else procede to the folder where you installed
-MongoDB and find mongod accordingly.
+MongoDB and find mongod accordingly
 
-* Open GIT Bash terminal in the folder where you have cloned Pet-Match and run the following command.
+* Open GIT Bash terminal in the folder where you have cloned Pet-Match and run the following command :
 ```
 node app.js
 ```
